@@ -1,7 +1,7 @@
 # Sentiment Analysis of Trending Hashtags from Twitter
 Sentiment Analysis is a technique used in the area of a text analysis which finds the probabilities of different classes which are assigned to a particular text. The outcome of sentiment analysis is in terms of the joint probabilities of particular word and the classes associated to those words. Twitter Sentiment Analysis is nothing but a set of advance mining techniques which are able to analyse the sentiment associated with the given text or word. The main aim of these sentiment analysis algorithms is to identify the sentiment in the form of positive sentiment, negative sentiment or neutral one.
 # Tech Used
-Software: Visual Studio Code
+Software: Anaconda
 
 Language: HTML, Jupyter Notebook
 
